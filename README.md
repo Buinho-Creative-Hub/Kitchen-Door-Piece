@@ -28,7 +28,7 @@ The first step was to digitally recreate the original piece by measuring it with
 *New piece designed in Fusion 360*
 
 
-After testing different iterations, a few modifications were made to the original design. Specifically, the side pointing inwards needed to be lower in order to hold the door lock in place and avoid it damaging the new piece, has had happened to the original.
+After testing different iterations, a few modifications were made to the original design. Specifically, the side pointing inwards needed to be lower in order to hold the door lock in place and avoid it damaging the new piece, as had happened to the original.
 
 
 ![New piece installed on the door frame](/docs/new_piece_01.jpg "New piece installed on the door frame")
