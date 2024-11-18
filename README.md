@@ -14,14 +14,22 @@ To solve the problem, two possible solutions were identified:
 
 After some consideration, the second solution was implemented, consisting on fabricating a newly designed top locking piece.
 
+
 ![Original door top locking piece](/docs/original_piece_01.jpg "Original door top locking piece")
+*Original door top locking piece*
+
 
 3D printing was the fabrication methodology chosen to produce the new piece.
 
 The first step was to digitally recreate the original piece by measuring it with a caliper meter.
 
+
 ![New piece designed in Fusion 360](/docs/new_piece_fusion_360_01.png "New piece designed in Fusion 360")
+*New piece designed in Fusion 360*
+
 
 After testing different iterations, a few modifications were made to the original design. Specifically, the side pointing inwards needed to be lower in order to hold the door lock in place and avoid it damaging the new piece, has had happened to the original.
 
+
 ![New piece installed on the door frame](/docs/new_piece_01.jpg "New piece installed on the door frame")
+*New piece installed on the door frame*
